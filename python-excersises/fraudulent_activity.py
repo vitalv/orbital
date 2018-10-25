@@ -29,3 +29,5 @@ def count_notifications_2(filename):
 			print("Slow down with the credit card!")
 			notifications+=1
 	return notifications
+
+
